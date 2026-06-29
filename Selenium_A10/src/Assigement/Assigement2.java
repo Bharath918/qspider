@@ -16,7 +16,7 @@ package Assigement;
 		     driver.findElement(By.id("LastName")).sendKeys("M");
 		     driver.findElement(By.id("Email")).sendKeys("bharath@gmail.com");
 		     driver.findElement(By.id("Password")).sendKeys("REDDY");
-		     driver.findElement(By.id("ConfirmPassword")).sendKeys("REDDY");
+		     driver.findElement(By.id("ConfirmPassword")).sendKeys("REDDY1");
 		}
 
 	
